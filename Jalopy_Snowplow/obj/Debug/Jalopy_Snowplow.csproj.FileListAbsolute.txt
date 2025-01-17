@@ -1,0 +1,8 @@
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\bin\Debug\Jalopy_Snowplow.dll
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\bin\Debug\Jalopy_Snowplow.pdb
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\bin\Debug\MonoMod.Backports.dll
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\obj\Debug\Jalopy_Snowplow.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\obj\Debug\Jalopy_Snowplow.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\obj\Debug\Jalopy_S.800E5948.Up2Date
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\obj\Debug\Jalopy_Snowplow.dll
+C:\Users\Leo\source\repos\Jalopy_Snowplow\Jalopy_Snowplow\obj\Debug\Jalopy_Snowplow.pdb
