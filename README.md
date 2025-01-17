@@ -1,3 +1,4 @@
+[![](https://img.shields.io/github/downloads/Liebeg/Jalopy_Snowplow/total)](#)
 # Jalopy_Snowplow
 This is a very simple mod for Jalopy that allows you to attach a snowplow to your car.
 
