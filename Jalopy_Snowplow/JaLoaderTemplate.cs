@@ -44,7 +44,7 @@ namespace Jalopy_Snowplow
         /// It compares the current ModVersion with the tag of the latest release (ex. 1.0.0 compared with 1.0.1)
         /// For more information, check out the wiki page on versioning. (https://github.com/theLeaxx/JaLoader/wiki/Versioning-your-mod)
         /// </summary>
-        public override string GitHubLink => "";
+        public override string GitHubLink => "https://github.com/Liebeg/Jalopy_Snowplow";
 
         /// <summary>
         /// When to initialize the mod.
@@ -114,12 +114,11 @@ namespace Jalopy_Snowplow
                 //snowplow.transform.localPosition = new Vector3(0.372f, -5.799f, -2);
                 snowplow.transform.localPosition = new Vector3(8.641f, -4.683f, -2);
                 snowplow.transform.localScale = new Vector3(100, 100, 100);
-                snowplow.transform.localEulerAngles = new Vector3(329.91f, 89.2928f, 357.870f);
+                snowplow.transform.localEulerAngles = new Vector3(329.91f, 89.2928f, 0);
 
 
-
-                ModHelper.Instance.CreateIconForExtra(snowplow, new Vector3(), new Vector3(0.5f, 0.5f, 0.5f), new Vector3(180, 60, 200), "snowplow");
-
+                // ModHelper.Instance.CreateIconForExtra(snowplow, new Vector3(), new Vector3(0.5f, 0.5f, 0.5f), new Vector3(180, 60, 200), "snowplow");
+                ModHelper.Instance.CreateIconForExtra(snowplow, new Vector3(-1.160f, 1.113f, 4.99f), new Vector3(20.310f, -3.53f, -9.67f), new Vector3(59.810f, 60, 200), "snowplow");
 
                 CustomObjectsManager.Instance.RegisterObject(ModHelper.Instance.CreateExtraObject(snowplow, BoxSizes.Big, "Snowplow", "A snowplower, to make your car push snow arround.", 80, 10, "snowplow", AttachExtraTo.Body), "snowplow");
                 // snowPlowCar = ExtrasManager.Instance.GetHolder("snowplow"); -- this is removed!
